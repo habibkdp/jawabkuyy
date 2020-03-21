@@ -1,0 +1,19 @@
+a{
+	padding-top: 20px;
+}
+.mdl{
+	width: 500px;           /* Set this to your convenience */
+    height: 200px;          /* Set this to your convenience */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -250px;     /* Half of height */
+    margin-left: -250px;     /* Half of width */
+}
+.ctr{
+	width: 1000px;           /* Set this to your convenience */
+    top: 50%;
+    left: 50%;
+    margin-top: -250px;     /* Half of height */
+    margin-left: 30px;     /* Half of width */
+}
